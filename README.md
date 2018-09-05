@@ -1,1 +1,2 @@
-# SQL-Server-scripts-tools
+# SQL Server scripts, tools and links
+
